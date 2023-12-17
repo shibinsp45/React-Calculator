@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="calculator">
-      <h1 style={{textAlign:'center'}}>Basic Calculator </h1>
+      <h1 style={{textAlign:'center'}}>Calculator </h1>
       <div className="display">
         <div className="input">{input}</div>
         <div className="result">{result}</div>
